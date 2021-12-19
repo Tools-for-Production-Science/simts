@@ -1,6 +1,6 @@
 {
   "name": "simts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a forked, reduced and typed version of simjs",
   "main": "./built/SimEngine.js",
   "typings": "./lib/SimEngine.d.ts",

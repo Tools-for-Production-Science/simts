@@ -2,7 +2,7 @@ README
 
 # Introduction
 
-This is a reduced fork of sim.j with typescript types. It is modified in such a way that it can be used with asynchronous operation e.g. a server. This is done by recursevly calling setImmediate. In addtion, a library was added to handle time conversion. 
+This is a reduced fork of sim.js with typescript types. It is modified in such a way that it can be used with asynchronous operation e.g. a server. This is done by recursevly calling setImmediate. In addtion, a library was added to handle time conversion. 
 
 # How to use it
 
